@@ -105,7 +105,7 @@ button {
   color: yellow;
   -webkit-text-stroke: 1px blue;
   font-family: 'Pokemon Solid', sans-serif;
-  letter-spacing: 8px;
+  letter-spacing: 4px;
 }
 
 .count {
